@@ -1,5 +1,5 @@
 <h1 align="center">🇺🇸 Hi! I'm Sam Myers</h1>
-<h3 align="center">I take pride in what I do. Simplicity is the greatest virtue.</h3>
+<h3 align="center">Simplicity is the greatest virtue.</h3>
 
 - 🔭 I’m currently working at [Switchboard](https://switchboard.app)
 
