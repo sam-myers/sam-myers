@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">🇺🇸 Hi! I'm Sam Myers</h1>
+<h3 align="center">I take pride in what I do. Simplicity is the greatest virtue.</h3>
 
-<!--
-**sam-myers/sam-myers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Switchboard](https://switchboard.app)
 
-Here are some ideas to get you started:
+- ⚙️ My last side project was [OmniRSS](https://omnirss.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Svelte**. Frontend is not my thing 😅
+
+- 📝 I occasionally talk about video games [https://games.sammye.rs/](https://games.sammye.rs/)
+
+- 📫 Send me an email **hello@sammye.rs**
+
+- 📄 Here's my [Resume](https://sammye.rs/)
+
+- ⚡ Fun fact **I make artisinal chocolate**
