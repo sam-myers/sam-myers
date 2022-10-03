@@ -5,15 +5,15 @@
 
 - ⚙️ My last side project was [OmniRSS](https://omnirss.com)
 
-- 🌱 I’m currently learning **Svelte**. Frontend is not my thing 😅
+- 🌱 I’m currently learning Svelte. Frontend is not my thing 😅
 
 - 📝 I occasionally talk about video games [https://games.sammye.rs/](https://games.sammye.rs/)
 
-- 📫 Send me an email **hello@sammye.rs**
+- 📫 Send me an email hello@sammye.rs
 
-- 📄 Here's my [Resume](https://sammye.rs/)
+- 📄 Here's my [resume](https://sammye.rs/)
 
-- ⚡ Fun fact **I make artisinal chocolate**
+- ⚡ Fun fact - I make artisinal chocolate
 
 - ✝ Journey before Destination
 
