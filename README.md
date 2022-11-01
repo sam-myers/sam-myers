@@ -5,7 +5,7 @@
 
 - ⚙️ My last side project was [OmniRSS](https://omnirss.com)
 
-- 🌱 I’m currently learning Svelte. Frontend is not my thing 😅
+- 🌱 I’m always learning! Currently building a computer from scratch in [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
 
 - 📝 I occasionally talk about video games [https://games.sammye.rs/](https://games.sammye.rs/)
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact - I make artisinal chocolate
 
-- ✝ Journey before Destination
+- ✝ He is Risen
 
 <h3 align="left">Quote to Live By</h3>
 
