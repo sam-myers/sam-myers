@@ -5,7 +5,7 @@
 
 - ⚙️ My last side project was [OmniRSS](https://omnirss.com)
 
-- 🌱 I’m always learning! Currently building a computer from scratch in [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
+- 🌱 I’m always learning! Currently [learning Unity](https://game.courses/)
 
 - 📝 I occasionally talk about video games [https://games.sammye.rs/](https://games.sammye.rs/)
 
