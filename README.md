@@ -7,7 +7,7 @@
 
 - 🌱 I’m always learning! Currently [learning Unity](https://game.courses/)
 
-- 📝 I occasionally talk about video games [https://games.sammye.rs/](https://games.sammye.rs/)
+- 📝 I occasionally talk about video games at [dumbopinion.net](https://www.dumbopinion.net/)
 
 - 📫 Send me an email hello@sammye.rs
 
