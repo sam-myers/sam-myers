@@ -5,7 +5,7 @@
 
 - ⚙️ My last side project was [OmniRSS](https://omnirss.com)
 
-- 🌱 I’m always learning! Currently building hobby games in [Godot](https://godotengine.org/)
+- 🌱 I’m always learning! Currently building hobby games with [Godot](https://godotengine.org/)
 
 - 📝 I occasionally talk about random things at [dumbopinion.net](https://www.dumbopinion.net/)
 
