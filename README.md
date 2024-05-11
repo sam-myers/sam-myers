@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at [Switchboard](https://switchboard.app)
 
-- ⚙️ My last side project was [OmniRSS](https://omnirss.com)
-
 - 🌱 I’m always learning! Currently building hobby games with [Godot](https://godotengine.org/)
 
 - 📝 I occasionally talk about random things at [dumbopinion.net](https://www.dumbopinion.net/)
@@ -29,7 +27,6 @@ Infrastructure
 - GitHub Actions is the best CI/CD tool available
 - Docker / Kubernetes for work
 - Pulumi / Terraform because infra-as-code is the way
-- Netlfy for hobby-sized projects
 
 ## Quotes
 
