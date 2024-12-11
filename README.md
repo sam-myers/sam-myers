@@ -1,7 +1,7 @@
 <h1 align="center">🇺🇸 Hi! I'm Sam Myers</h1>
 <h3 align="center">Simplicity is the greatest virtue.</h3>
 
-- 🔭 I’m currently working at [Switchboard](https://switchboard.app)
+- 🔭 I’m currently working at [Airtop](https://airtop.ai)
 
 - 🌱 I’m always learning! Currently building hobby games with [Godot](https://godotengine.org/)
 
